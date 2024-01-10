@@ -1,6 +1,6 @@
 **Privacy Policy for [DonorGo User]**
 
-Last updated: [Date]
+Last updated: [Jan 10, 2024]
 
 Thank you for using [Your App Name]! This Privacy Policy is designed to help you understand how we collect, use, and safeguard your information when you use our Google app. By using [Your App Name], you agree to the practices described in this Privacy Policy.
 
