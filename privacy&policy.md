@@ -38,15 +38,19 @@ Thank you for using [Your App Name]! This Privacy Policy is designed to help you
 
 **Location Data**:
 
-[DonorGo] may request access to your device's background location to provide location-based services. This permission allows the app to collect location information even when you are not actively using it. The background location data is used solely for the purpose of enhancing your experience with features that require geographical information.
+[DonorGo] may request access to your device's background location using the ACCESS_BACKGROUND_LOCATION, ACCESS_FINE_LOCATION, and ACCESS_COARSE_LOCATION permissions to provide location-based services. These permissions allow the app to collect location information, including precise and approximate location data.
 
-You can manage your location preferences in your device settings and may choose to grant or revoke background location access at any time. Please note that denying or revoking this permission may affect the functionality of certain features within the app.
+The ACCESS_FINE_LOCATION permission is used for high-precision location services, while the ACCESS_COARSE_LOCATION permission is used for less precise, but faster, location services. The ACCESS_BACKGROUND_LOCATION permission specifically allows the app to collect location information in the background, even when you are not actively using the app.
+
+The background location data is used solely for the purpose of enhancing your experience with features that require geographical information, such as [specify features here].
+
+You can manage your location preferences, including background location access, in your device settings and may choose to grant or revoke these permissions at any time. Please note that denying or revoking these permissions may affect the functionality of certain features within the app.
 
 **Permissions**:
 
-By using [Your App Name], you acknowledge and agree to grant the necessary permissions for the app to access and use the background location data in accordance with this Privacy Policy.
+By using [DonorGo], you acknowledge and agree to grant the necessary permissions, including ACCESS_BACKGROUND_LOCATION, ACCESS_FINE_LOCATION, and ACCESS_COARSE_LOCATION, for the app to access and use location data in accordance with this Privacy Policy.
 
-For any concerns or queries regarding the app's use of location data, please contact us at [patisimko@gmail.com].
+For any concerns or queries regarding the app's use of location data or permissions, please contact us at [patisimko@gmail.com].
 
 **Changes to This Privacy Policy:**
 
