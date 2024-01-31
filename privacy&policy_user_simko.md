@@ -1,7 +1,7 @@
- *Privacy Policy for SIMKO User (Information-Focused)*
+#Privacy Policy for SIMKO User (Information-Focused)#
 Date: January 30, 2024
 
-**Introduction**
+##Introduction
 
  Simko is committed to protecting the privacy of your personal information when you use our mobile banking application ("App"). This Privacy Policy explains what information we collect, how we use it, and with whom we share it, focusing on features related to general information and education, not transactions.
 
