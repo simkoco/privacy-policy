@@ -31,7 +31,7 @@ Analytics: We use anonymized usage data for internal analytics to enhance the ov
 
  You can access and update your basic App usage preferences within the App settings. You can also choose to opt out of anonymized data sharing for analytics purposes through the settings menu.
 
-## Data Security**
+## Data Security
 
 We have implemented appropriate technical and organizational measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no data transmission over the internet is completely secure.
 
@@ -39,7 +39,7 @@ We have implemented appropriate technical and organizational measures to protect
 
 We may update this Privacy Policy from time to time. We will post any changes on this page and update the "31-Jan-2024" at the top. We encourage you to review this Privacy Policy periodically for the latest information.
 
-## Contact Us**
+## Contact Us
 
  If you have any questions about this Privacy Policy, please contact us at [patisimko@gmail.com].
 
@@ -47,4 +47,4 @@ We may update this Privacy Policy from time to time. We will post any changes on
 
  This Privacy Policy may be subject to additional requirements under applicable data protection laws. We will comply with such requirements as applicable.
 
-** Please note: This revised Privacy Policy focuses on information-focused features within the App and excludes information collection related to transactions. You may need to adapt it further based on the specific information your App collects and the functionalities it offers.**
+**Please note: This revised Privacy Policy focuses on information-focused features within the App and excludes information collection related to transactions. You may need to adapt it further based on the specific information your App collects and the functionalities it offers.**
