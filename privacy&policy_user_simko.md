@@ -3,16 +3,16 @@ Date: January 30, 2024
 
 ## Introduction
 
- Simko is committed to protecting the privacy of your personal information when you use our mobile banking application ("App"). This Privacy Policy explains what information we collect, how we use it, and with whom we share it, focusing on features related to general information and education, not transactions.
+ Simko is committed to protecting the privacy of your personal information when you use our apps. This Privacy Policy explains what information we collect, how we use it, and with whom we share it, focusing on features related to general information and education, not transactions.
 
   - ### Information We Collect
 
 Basic App Usage: We collect information about your general use of the App, such as features accessed, frequency of use, and basic navigation patterns. This helps us understand user preferences and optimize the App experience.
-Device Information: We collect basic information about your mobile device, such as device type, operating system, and IP address, for technical support and analytics purposes.
+Device Information: We collect basic information about your mobile device.
 
-  - ### Information We Do Not Collect***
+  - ### Information We Do Not Collect
 
-Financial Information: We do not collect any financial information through the App's information-focused features, such as account numbers, balances, transaction history, or direct deposit details.
+Financial Information: We do not collect any financial information through the App's information-focused features, such as account numbers, balances, transaction history, or direct deposit details but only show.
 Sensitive Personal Information: We do not collect any sensitive personal information, such as Social Security numbers, driver's license numbers, or medical records, through the App.
 
   - ### How We Use Your Information
@@ -41,7 +41,7 @@ We may update this Privacy Policy from time to time. We will post any changes on
 
 ## Contact Us
 
- If you have any questions about this Privacy Policy, please contact us at [patisimko@gmail.com].
+ If you have any questions about this Privacy Policy, please contact us at [simkopati](patisimko@gmail.com).
 
 ## Additional Information for Specific Jurisdictions
 
